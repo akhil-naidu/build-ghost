@@ -1,4 +1,4 @@
-# Ghost on Render
+# Ghost from Github
 
 This is a template repository for running [Ghost](https://ghost.org) on Render.
 
